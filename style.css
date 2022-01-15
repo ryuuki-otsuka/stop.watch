@@ -1,0 +1,53 @@
+.controls{
+  display: flex;
+}
+
+#start{
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  font-weight: bold;
+  background-color: #c0c0c0;
+  margin-right: 10px;
+  border:1px solid;
+  text-align: center;
+}
+
+#stop{
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  font-weight: bold;
+  background-color: #c0c0c0;
+  margin-right: 10px;
+  border:1px solid;
+  text-align: center;
+}
+
+#reset{
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  font-weight: bold;
+  background-color: #c0c0c0;
+  margin-right: 10px;
+  border:1px solid;
+  text-align: center;
+}
+
+#start:hover{
+  opacity: 0.3;
+}
+
+#stop:hover{
+  opacity: 0.3;
+}
+
+#reset:hover{
+  opacity: 0.3;
+}
+
+#timer{
+  font-size: 50px;
+  margin-bottom: 10px;
+}
